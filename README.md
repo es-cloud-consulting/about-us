@@ -1,6 +1,6 @@
 # about-us
 
-### Extra SOmething IT Consulting 👋
+### Extra Something IT Consulting 👋
 
 
 <p align="center">
